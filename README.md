@@ -25,6 +25,8 @@
   <li>
     <img src="https://user-images.githubusercontent.com/30157522/87161827-6cd77380-c29b-11ea-902a-725eeed60745.png" width="18" alt="Linkedin"> 
     <a href="https://www.linkedin.com/in/vitorb0rges/" target="_blank" title="My LinkedIn">LinkedIn</a>
+    <a src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="18" alt="Instagram">
+    <a href="https://www.instagram.com/daivitey/" title="My Instagram">Instagram</a>
   </li>
 </ul>
 
