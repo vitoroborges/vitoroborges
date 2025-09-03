@@ -27,7 +27,7 @@
     <a href="https://www.linkedin.com/in/vitorb0rges/" target="_blank" title="My LinkedIn">LinkedIn</a>
   </li>
   <li>
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="18" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" width="32" alt="Instagram">
     <a href="https://www.instagram.com/daivitey/" title="My Instagram">Instagram</a>
   </li>
 </ul>
